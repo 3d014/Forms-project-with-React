@@ -1,0 +1,26 @@
+.invalidInput{
+    border:1px solid red
+}
+
+.radioButtonsDiv{
+    display: flex;
+    direction: row;
+}
+
+
+
+.container{
+    display: flex;
+    align-items:flex-start;
+    
+    justify-content:left;
+    
+}
+.labelDiv{
+    width:15%;
+}
+
+.value{
+    align-self: flex-start;
+    margin-left:30px;
+}

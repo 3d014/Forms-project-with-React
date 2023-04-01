@@ -1,0 +1,24 @@
+.formTemplate{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    border:1px;
+    border-radius: 5%;
+    border-style: solid;
+    background-color: #fbd37b;
+    margin:20px 5% 20px 5%;
+    padding:25px 0 20px 10px;
+}
+
+.formRow{
+        display:flex;
+        flex-wrap: wrap;
+}
+
+
+.submitButton{
+    margin-top:20px;
+    margin-bottom: 0px;
+    margin-left:10px;
+    width:5%;
+}
